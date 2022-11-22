@@ -27,10 +27,10 @@ This application was originally created for Module 18 then refined for the Part 
 ## Screenshots
 * [Create an Account](https://github.com/wkbw/badbank-v2/blob/main/screenshots/create-account.png)
 * [Make sure your password is at least 8 characters long](https://github.com/wkbw/badbank-v2/blob/main/screenshots/password-validation.png)
-* [Account creation successful](https://github.com/wkbw/badbank-v2/tree/main/screenshots#:~:text=.%E2%80%8A.-,account%2Dsuccess.png,-Add%20files%20via)
+* [Account creation successful](https://github.com/wkbw/badbank-v2/blob/main/screenshots/account-success.png)
 * [Make a Deposit](https://github.com/wkbw/badbank-v2/blob/main/screenshots/deposit.png)
 * [Make a Withdrawl](https://github.com/wkbw/badbank-v2/blob/main/screenshots/withdrawl.png)
-* [See All Data](https://github.com/wkbw/badbank-v2/tree/main/screenshots#:~:text=4%20minutes%20ago-,all%2Ddata.png,-Add%20files%20via)
+* [See All Data](https://github.com/wkbw/badbank-v2/blob/main/screenshots/all-data.png)
 
 ## Technology Used
 * React
