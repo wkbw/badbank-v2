@@ -22,7 +22,7 @@ This application was originally created for Module 18 then refined for the Part 
 
 ## Installation Guidelines
 ### Step 1: Clone the Bad Bank Repository
-* Follow these [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#:~:text=Cloning%20a-,repository,-On%20GitHub.com) to clone the [badbank-v2 repository](https://github.com/wkbw/badbank-v2/wendy-byerlybankingapp).
+* Follow these [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#:~:text=Cloning%20a-,repository,-On%20GitHub.com) to clone the [badbank-v2 repository](https://github.com/wkbw/badbank-v2/tree/main/wendy-byerlybankingapp).
 
 * To run, open ___index.html___ and watch as Pac-Man begins his trip.
 * First, he moves at a measured pace to the right until he reaches the right edge of the browser window. Once that happens, Pac-Man appears to reverse direction then chomps his way back across the screen to the left until he reaches the left edge of the brower window. Pac-Man flips then starts his chomping march to the right all over again.
