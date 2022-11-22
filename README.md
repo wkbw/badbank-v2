@@ -18,34 +18,35 @@
 ## Description
 The goal of this project is to refactoring the banking application by building a back end MongoDB database. Primarily, creating the database makes this a functionality application as it can now retain and update user data.
 
-This application was originally created for Module 18 then refined for the Part 2 Portfolio Project. The steps to complete this project follow:
+This application was originally created for Module 18 then refined for the Part 2 Portfolio Project. 
 
 ## Installation Guidelines
-### Step 1: Clone the Bad Bank Repository
-* Follow these [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#:~:text=Cloning%20a-,repository,-On%20GitHub.com) to clone the [badbank-v2 repository](https://github.com/wkbw/badbank-v2/tree/main/wendy-byerlybankingapp).
-
-* To run, open ___index.html___ and watch as Pac-Man begins his trip.
-* First, he moves at a measured pace to the right until he reaches the right edge of the browser window. Once that happens, Pac-Man appears to reverse direction then chomps his way back across the screen to the left until he reaches the left edge of the brower window. Pac-Man flips then starts his chomping march to the right all over again.
-* For a bit of added fun, resize the browser window so Pac-Man’s back and forth jaunt is shorter each way.
+* Navigate to https://wendy-byerlybankingapplication.s3.us-west-2.amazonaws.com/index.html#
+* Start by creating an account
 
 ## Screenshots
+* [Create an Account](https://github.com/wkbw/badbank-v2/blob/main/screenshots/create-account.png)
+** [Make sure your password is at least 8 characters long](https://github.com/wkbw/badbank-v2/blob/main/screenshots/password-validation.png)
+** [Account creation successful](https://github.com/wkbw/badbank-v2/tree/main/screenshots#:~:text=.%E2%80%8A.-,account%2Dsuccess.png,-Add%20files%20via)
+* [Make a Deposit](https://github.com/wkbw/badbank-v2/blob/main/screenshots/deposit.png)
+* [Make a Withdrawl](https://github.com/wkbw/badbank-v2/blob/main/screenshots/withdrawl.png)
+* [See All Data](https://github.com/wkbw/badbank-v2/tree/main/screenshots#:~:text=4%20minutes%20ago-,all%2Ddata.png,-Add%20files%20via)
 
 ## Technology Used
+* React
+* 
 
 
 ## Features
 This project:
 
-* Increase Pac-Man’s speed by changing *setInterval(Run, 200)* to *setInterval(Run, 50)* and watch as Pac-Man veritably flies across the screen, just like the video game!
-* Have Pac-Man’s course change so he changes direction to follow mouse clicks across the screen.
-* Add more characters so Pac-Man has someone to chase across the lonely screen.
 
 ## Learning Insights
 
-Learning how to make Pac-Man move and chomp back and forth across the screen was fun. However, what I really learned was how to work through the exercise, carefully reading through the comments, picking up on nuances in the wording, googling all terms, and always, always use console.log() to check your code and to ensure anything you write works before moving onto the next step.
+
 
 
 ## License Information
-[This Pac-Man project is licensed under the MIT License](https://github.com/wkbw/Pac-Man/blob/main/LICENSE).
+[This Bad Bank project is licensed under the MIT License](https://github.com/wkbw/Bad-Bank/blob/main/LICENSE).
 
 
