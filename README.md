@@ -40,6 +40,6 @@ This application was originally created for Module 18 then refined for the Part 
 This project is in the process of being refactored. It will include Express and connect to a MongoDB database.
 
 ## License Information
-[This Bad Bank project is licensed under the MIT License](https://github.com/wkbw/Bad-Bank/blob/main/LICENSE).
+[This Bad Bank project is licensed under the MIT License](https://github.com/wkbw/badbank-v2/blob/main/LICENSE).
 
 
