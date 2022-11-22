@@ -1,36 +1,45 @@
-# Pac-Man Movement Exercise
+# Refactoring the Bad Bank Banking Application
 
-###### This README file is a companion to the Pac-Man Exercise completed during Week 4 of the Professional Certificate in Coding Cohort. 
+###### This README file is a companion to the Bad Bank Portfolio submission at the conclusion of Part 2 of the Professional Certificate in Coding Cohort. 
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ul>
     <li><a href="#description">Description</a></li>
-    <li><a href="#steps-to-create">Steps to Create</a></li>
-    <li><a href="#how-to-run">How to Run</a></li>
-    <li><a href="#roadmap-of-future-improvements">Roadmap of Future Improvements</a></li>
-    <li><a href="#learning-insights">Learning Insights</a></li>
+    <li><a href="#installation">Installation Guidelines</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
+    <li><a href="#technology-used">Technology Used</a></li>
+     <li><a href="#features">Features</a></li>
     <li><a href="#license-information">License Information</a></li>
   </ul>
 </details>
 
 ## Description
-The goal of this project is to use the *setInterval()* method with an array to control the movement of a Pac-Man image. Starter html, js, and image files were provided but the simulation of movement needed to be added to the JavaScript file. The steps to complete this project follow:
+The goal of this project is to refactoring the banking application by building a back end MongoDB database. Primarily, creating the database makes this a functionality application as it can now retain and update user data.
 
-## Steps to Create 
-* Add a JavaScript *setInterval()* method to call the *Run()* function every 200 milliseconds.
-* Add an extra argument to the *Run()* function to replace *null* with *pageWidth*.
-* Add conditions to the *checkPageBounds()* function to move Pac-Man one direction, then reverse direction once it hits the page width boundary.
+This application was originally created for Module 18 then refined for the Part 2 Portfolio Project. The steps to complete this project follow:
 
-## How to Run
+## Installation Guidelines
+### Step 1: Clone the Bad Bank Repository
+* Follow these [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#:~:text=Cloning%20a-,repository,-On%20GitHub.com) to clone the [badbank-v2 repository](https://github.com/wkbw/badbank-v2).
+
+
+* Click the tab that corresponds to the location of the repository you want to clone. ...
+Choose the repository you want to clone from the list.
+Click Choose... and navigate to a local path where you want to clone the repository.
+Click Clone.
 * To run, open ___index.html___ and watch as Pac-Man begins his trip.
 * First, he moves at a measured pace to the right until he reaches the right edge of the browser window. Once that happens, Pac-Man appears to reverse direction then chomps his way back across the screen to the left until he reaches the left edge of the brower window. Pac-Man flips then starts his chomping march to the right all over again.
 * For a bit of added fun, resize the browser window so Pac-Man’s back and forth jaunt is shorter each way.
 
+## Screenshots
 
-## Roadmap of Future Improvements
-Some ideas to take Pac-Man’s trip to the next level:
+## Technology Used
+
+
+## Features
+This project:
 
 * Increase Pac-Man’s speed by changing *setInterval(Run, 200)* to *setInterval(Run, 50)* and watch as Pac-Man veritably flies across the screen, just like the video game!
 * Have Pac-Man’s course change so he changes direction to follow mouse clicks across the screen.
