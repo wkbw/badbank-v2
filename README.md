@@ -24,11 +24,6 @@ This application was originally created for Module 18 then refined for the Part 
 ### Step 1: Clone the Bad Bank Repository
 * Follow these [instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#:~:text=Cloning%20a-,repository,-On%20GitHub.com) to clone the [badbank-v2 repository](https://github.com/wkbw/badbank-v2).
 
-
-* Click the tab that corresponds to the location of the repository you want to clone. ...
-Choose the repository you want to clone from the list.
-Click Choose... and navigate to a local path where you want to clone the repository.
-Click Clone.
 * To run, open ___index.html___ and watch as Pac-Man begins his trip.
 * First, he moves at a measured pace to the right until he reaches the right edge of the browser window. Once that happens, Pac-Man appears to reverse direction then chomps his way back across the screen to the left until he reaches the left edge of the brower window. Pac-Man flips then starts his chomping march to the right all over again.
 * For a bit of added fun, resize the browser window so Pac-Man’s back and forth jaunt is shorter each way.
